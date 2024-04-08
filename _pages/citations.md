@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poster Image Citations
+title: image citations
 permalink: /citations/
 description: " "
 nav: true
