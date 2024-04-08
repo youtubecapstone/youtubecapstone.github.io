@@ -104,7 +104,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note:
+contact_note: >
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -131,17 +131,17 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 pagination:
   enabled: true
 
-related_blog_posts:
-  enabled: false
-  max_related: 5
+# related_blog_posts:
+#   enabled: false
+#   max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+  repo: alshedivat/al-folio # <your-github-user-name>/<your-github-repo-name>
+  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ== # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
+  category_id: DIC_kwDOA5PmLc4CTBt6 # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
   strict: 1 # use strict identification mode
   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
