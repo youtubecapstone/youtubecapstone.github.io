@@ -26,4 +26,6 @@ Krishan Chawla [LinkedIn](https://www.linkedin.com/in/krishan-chawla-16a3a58/)
 
 Dean Winters [LinkedIn](https://www.linkedin.com/in/dean-winters-691724114/)
 
-[Return to LinkTree](https://linktr.ee/youtube_recommender_capstone)
+___
+
+[Provide feedback](https://forms.gle/sEWTM8QzEcx3AtHf9) or [return to LinkTree](https://linktr.ee/youtube_recommender_capstone)
