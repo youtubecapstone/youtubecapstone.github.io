@@ -1,8 +1,10 @@
 ---
 layout: page
 title: citations
-permalink: /citations
-subtitle: " "
+permalink: /citations/
+description: " "
+nav: true
+nav_order: 1
 ---
 
 
