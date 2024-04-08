@@ -22,6 +22,6 @@ Quoc-Huy Nguyen [LinkedIn](https://www.linkedin.com/in/quochuyn/), [Portfolio](h
 
 Gabriel Alon [LinkedIn](https://www.linkedin.com/in/gabrielalon/), [Portfolio](https://galonpy.github.io/), [Twitter](https://twitter.com/gabrielalon_ai/)
 
-<!-- Krishan Chawla [LinkedIn](https://www.linkedin.com/in/krishan-chawla-16a3a58/)
+Krishan Chawla [LinkedIn](https://www.linkedin.com/in/krishan-chawla-16a3a58/)
 
-Dean Winters [LinkedIn](https://www.linkedin.com/in/dean-winters-691724114/) -->
+Dean Winters [LinkedIn](https://www.linkedin.com/in/dean-winters-691724114/)
