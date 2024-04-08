@@ -25,3 +25,5 @@ Gabriel Alon [LinkedIn](https://www.linkedin.com/in/gabrielalon/), [Portfolio](h
 Krishan Chawla [LinkedIn](https://www.linkedin.com/in/krishan-chawla-16a3a58/)
 
 Dean Winters [LinkedIn](https://www.linkedin.com/in/dean-winters-691724114/)
+
+[Return to LinkTree](https://linktr.ee/youtube_recommender_capstone)
